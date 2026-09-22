@@ -6,6 +6,8 @@ PantryPal AI helps home cooks manage fridge/pantry inventory, minimize food wast
 
 ![PantryPal AI Demo](docs/demo.gif)
 
+🎥 **[Watch High-Res WebM Video Demo](docs/demo_video.webm)**
+
 ---
 
 ## 🚀 Key Features & Implemented Capabilities
